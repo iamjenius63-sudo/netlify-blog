@@ -11,6 +11,7 @@ We are a team of software enthusiasts who believe in the power of lifetime deals
 - Tutorials: How-to guides and tips
 
 ## Blog Posts
+- [aiautomation/invoice pdf data extraction openrouter make](https://imake-integration.netlify.app/aiautomation/invoice-pdf-data-extraction-openrouter-make.html)
 - [aivideomedia/how creators automate faceless channels pictory](https://imake-integration.netlify.app/aivideomedia/how-creators-automate-faceless-channels-pictory.html)
 - [aivideomedia/how podcasters edit multitrack video descript](https://imake-integration.netlify.app/aivideomedia/how-podcasters-edit-multitrack-video-descript.html)
 - [aivideomedia/how to read scripts naturally camera bigvu](https://imake-integration.netlify.app/aivideomedia/how-to-read-scripts-naturally-camera-bigvu.html)
